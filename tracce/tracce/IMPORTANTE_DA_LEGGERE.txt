@@ -1,0 +1,4 @@
+I temi d'esame nella presente raccolta relativi al 2019 riguardano 
+il "vecchio" corso di Fondamenti di Informatica - Modulo 2.
+Pertanto, possono contenere riferimenti ad argomenti (quali Hash Maps e Hash Codes)
+non trattati nel corso di Fondamenti di Informatica II.
