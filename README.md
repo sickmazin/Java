@@ -1,2 +1,2 @@
-# Java-
-Appunti ed esercizi che riguardano il corso di java al primo anno svolto con il prof. Furfaro.
+
+Appunti ed esercizi che riguardano il corso di JAVA al primo anno svolto con il prof. Furfaro.
